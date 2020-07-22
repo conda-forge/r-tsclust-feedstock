@@ -34,19 +34,19 @@ requirements:
     - r-kernsmooth
     - r-cluster
     - r-dtw
+    - r-forecast
     - r-locpol
     - r-longitudinaldata
     - r-pdc
-    - r-wmtsa
   run:
     - r-base
     - r-kernsmooth
     - r-cluster
     - r-dtw
+    - r-forecast
     - r-locpol
     - r-longitudinaldata
     - r-pdc
-    - r-wmtsa
 
 test:
   requires:
