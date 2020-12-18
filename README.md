@@ -5,11 +5,9 @@ Home: http://www.jstatsoft.org/v62/i01/
 
 Package license: GPL-2.0-only
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-tsclust-feedstock/blob/master/LICENSE.txt)
 
 Summary: A set of measures of dissimilarity between time series to perform time series clustering. Metrics based on raw data, on generating models and on the forecast behavior are implemented. Some additional utilities related to time series clustering are also provided, such as clustering algorithms and cluster evaluation metrics.
-
-
 
 Current build status
 ====================
