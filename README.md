@@ -3,7 +3,7 @@ About r-tsclust
 
 Home: http://www.jstatsoft.org/v62/i01/
 
-Package license: GPL-2
+Package license: GPL-2.0-only
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-tsclust-feedstock/blob/master/LICENSE.txt)
 
