@@ -1,4 +1,4 @@
-{% set version = "1.3.1" %}
+{% set version = "1.3.2" %}
 {% set posix = 'm2-' if win else '' %}
 
 package:
@@ -9,10 +9,10 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/TSclust_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/TSclust/TSclust_{{ version }}.tar.gz
-  sha256: 506a7a352cf7c25bc014f5a4b01b8c8fc04a72cf0ccb52f2540bfce3344149de
+  sha256: f7ac54939eaf8fa4f10dc1519093e4179b28f014bed27673e8276d3ff0997231
 
 build:
-  number: 3
+  number: 0
   noarch: generic
   rpaths:
     - lib/R/lib/
