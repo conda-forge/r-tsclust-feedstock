@@ -21,7 +21,6 @@ build:
 requirements:
   build:
     - {{ posix }}zip               # [win]
-    - xorg-libxfixes  # [linux]
   host:
     - r-base
     - r-kernsmooth
@@ -31,7 +30,6 @@ requirements:
     - r-locpol
     - r-longitudinaldata
     - r-pdc
-    - libgl-devel                    # [linux]
   run:
     - r-base
     - r-kernsmooth
